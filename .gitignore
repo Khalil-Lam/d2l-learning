@@ -2,29 +2,24 @@
 __pycache__/
 *.pyc
 
-# Python environments
 .venv/
 venv/
 env/
 *.egg-info/
 
-# Data
 data/
 datasets/
 *.zip
 *.tar
 *.gz
 
-# Models
 *.pt
 *.pth
 *.ckpt
 *.onnx
 
-# System files
 .DS_Store
 Thumbs.db
 
-# Secrets
 .env
 *.key
